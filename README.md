@@ -12,8 +12,29 @@ A secure, sandboxed Docker DevContainer environment for running Claude Code CLI 
 
 ## Prerequisites
 
-- Docker Desktop or Podman
-- VS Code with DevContainer extension (optional)
+### Installing Docker Desktop
+
+Before using this DevContainer, you need to install Docker Desktop:
+
+#### Windows
+1. Download Docker Desktop from [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+2. Run the installer and follow the setup wizard
+3. Restart your computer when prompted
+4. Launch Docker Desktop and wait for it to start
+
+#### macOS
+1. Download Docker Desktop from [docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+2. Open the .dmg file and drag Docker to Applications
+3. Launch Docker from Applications
+4. Follow the setup instructions
+
+#### Linux
+1. Follow the official installation guide for your distribution at [docs.docker.com/desktop/install/linux-install](https://docs.docker.com/desktop/install/linux-install)
+2. Start Docker Desktop from your application menu
+
+### Other Requirements
+
+- VS Code with DevContainer extension (optional but recommended)
 - Windows PowerShell (for Windows users using the automation script)
 
 ## Quick Start
