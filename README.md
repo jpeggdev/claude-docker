@@ -4,11 +4,11 @@ A secure, sandboxed Docker DevContainer environment for running Claude Code CLI 
 
 ## Features
 
-- 🔒 **Network Security**: Restricts outbound traffic to only essential domains (GitHub, npm, Anthropic APIs)
-- 🛠️ **Development Ready**: Includes git, zsh, fzf, GitHub CLI, and other essential tools
-- 💾 **Persistent Storage**: Maintains command history and Claude configuration across sessions
-- 🎨 **Terminal Customization**: Configured with Zsh and Powerline10k theme
-- 🔧 **VS Code Integration**: Full DevContainer support with Claude Code extension
+- **Network Security**: Restricts outbound traffic to only essential domains (GitHub, npm, Anthropic APIs)
+- **Development Ready**: Includes git, zsh, fzf, GitHub CLI, and other essential tools
+- **Persistent Storage**: Maintains command history and Claude configuration across sessions
+- **Terminal Customization**: Configured with Zsh and Powerline10k theme
+- **VS Code Integration**: Full DevContainer support with Claude Code extension
 
 ## Prerequisites
 
